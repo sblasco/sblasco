@@ -1,60 +1,38 @@
 # Hi, I'm Samuel 👋
 
-I build products, experiment with ideas, and turn messy problems into useful tools. I enjoy working across the stack, shipping end-to-end experiences, and learning by building.
+I'm a **Data Engineer** based in Zaragoza, Spain. I build and maintain data pipelines for fraud detection in the banking sector, and I use my free time to build side projects that go beyond my day job.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-stack+developer;Product-minded+builder;Always+learning" alt="Typing SVG" />
-</p>
+Background in Physics (University of Zaragoza), where I did my thesis on Machine Learning. Certified **Databricks Data Engineer Associate**.
 
-## About me
+## What I work with
 
-- 💡 I like building software that feels useful, simple, and thoughtful.
-- 🧠 I’m interested in product thinking, systems design, and practical automation.
-- ⚙️ I enjoy working with TypeScript, Python, React, and modern web tooling.
-- 🚀 I care about clear architecture, good UX, and shipping things that matter.
+- ⚡ **Processing:** Apache Spark, SQL
+- ☁️ **Cloud:** AWS (S3, Glue Data Catalog, Lake Formation, Athena, EMR, Step Functions), Azure Functions
+- 🏔️ **Platforms:** Databricks, Snowflake
+- 🏗️ **Infra & delivery:** Terraform, GitHub Actions, Docker
+- 🐍 **Languages:** Python, TypeScript
 
-## Featured work
+## Side projects
 
 ### [finanzas](https://github.com/sblasco/finanzas)
-A personal finance dashboard and app experience, focused on usability and clarity.
+Personal finance dashboard focused on clarity and usability.
 
 ### [mediatrack](https://github.com/sblasco/mediatrack)
-A lightweight tracking project built to organize and monitor workflows.
+App to track the anime, series, films and books I watch and read, built to replace my Notion lists.
 
 ### [poker_voting](https://github.com/sblasco/poker_voting)
-A simple collaboration tool for decision-making and voting sessions.
+Planning poker web app for story-point estimation in team sessions.
 
 ### [urdfstudio-analytics](https://github.com/sblasco/urdfstudio-analytics)
-A real-time analytics pipeline project for monitoring and product insight.
+Real-time analytics pipeline for monitoring product usage.
 
-## Tech stack
+## Currently
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sblasco&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sblasco&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
+- 📚 Following a structured learning plan on Python, Airflow, dbt, Kafka and data modeling.
+- 🛠️ Building public projects that show these tools end to end.
 
 ## Connect
 
-- 🌐 Portfolio / personal site: coming soon
-- 💼 LinkedIn: add your profile URL
-- ✉️ Email: your@email.com
+- 💼 LinkedIn: [Samuel Blasco Osés](https://www.linkedin.com/in/samuel-blasco-os%C3%A9s-2130b7273/)
+- ✉️ Email: samublasco18@gmail.com
 - 🐙 GitHub: [@sblasco](https://github.com/sblasco)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sblasco&color=7C3AED&style=flat-square" alt="Profile views" />
-</p>
-
-> “Build things that make people’s work easier and better.”
